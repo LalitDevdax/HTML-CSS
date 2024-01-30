@@ -1,3 +1,3 @@
 HTML - CSS 
 
-$ The website are responsive for limited devices only i.e. iPhone SE .
+$ The website are responsive for limited devices only i.e. Desktop and iPhone SE .
